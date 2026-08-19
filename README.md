@@ -1,7 +1,6 @@
 
 # Hi {👋}, 
 
-![](https://komarev.com/ghpvc/?username=josedaudi&color=green)
 -------------------------------------------------
 By creating a cooperative and inspirational working culture, I motivate myself not only to write code and implement software but also to find solutions to client's business problems. I always have the opportunity to challenge myself and grow and expand my horizons through international assignments.
 
